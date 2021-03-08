@@ -1,5 +1,6 @@
 {
   "name": "Remove name suppression on posts",
   "about_url": "https://meta.discourse.org/t/removing-similar-username-name-suppression-on-posts/86265",
-  "license_url": "https://github.com/discourse/remove-name-suppression-on-posts/blob/master/LICENSE"
+  "license_url": "https://github.com/discourse/remove-name-suppression-on-posts/blob/master/LICENSE",
+  "component": true
 }
